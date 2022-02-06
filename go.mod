@@ -3,7 +3,7 @@
 // (c) balarabe@protonmail.com                                      License: MIT
 // -----------------------------------------------------------------------------
 
-module github.com/balacode/udpt
+module https://github.com/CassianoDev/udpt/
 
 go 1.16
 
